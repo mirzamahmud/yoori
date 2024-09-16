@@ -119,7 +119,7 @@ class _HomeBannerSectionState extends State<HomeBannerSection> {
               Align(
                 alignment: Alignment.centerRight,
                 child: Padding(
-                  padding: const EdgeInsetsDirectional.only(top: 10, end: 10),
+                  padding: const EdgeInsetsDirectional.only(top: 10, end: 0),
                   child: Image.asset(AppImages.bannerImage),
                 ),
               ),
