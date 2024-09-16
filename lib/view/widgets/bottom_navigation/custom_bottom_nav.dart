@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:svg_flutter/svg.dart';
 import 'package:yoori/data/models/bottom_nav/bottom_nav_model.dart';
 import 'package:yoori/utils/color/app_colors.dart';
 import 'package:yoori/utils/icon/app_icons.dart';

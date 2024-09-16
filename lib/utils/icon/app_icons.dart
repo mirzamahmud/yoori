@@ -9,4 +9,6 @@ class AppIcons{
   static const String searchIcon = "assets/icons/search.png";
   static const String favoriteIcon = "assets/icons/favorite.png";
   static const String menuIcon = "assets/icons/menu.png";
+
+  static const String arrowIcon = "assets/icons/arrow.svg";
 }
